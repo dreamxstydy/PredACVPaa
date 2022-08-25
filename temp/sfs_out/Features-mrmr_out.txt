@@ -1,0 +1,69 @@
+You have specified parameters: no discretization, #fea=25 selection method=MID #maxVar=10000 #maxSample=2000
+
+Target classification variable (#1 column in the input data) has name=class 	entropy score=1.000
+
+*** MaxRel features ***
+Order 	 Fea 	 Name 	 Score
+1 	 8 	 KNN_DPC 	 0.292
+2 	 18 	 KNN_PAAC 	 0.264
+3 	 3 	 KNN_AAC 	 0.211
+4 	 13 	 KNN_CKSAAGP 	 0.160
+5 	 9 	 ERT_DPC 	 0.062
+6 	 7 	 RF_DPC 	 0.049
+7 	 14 	 ERT_CKSAAGP 	 0.049
+8 	 23 	 KNN_PHYC 	 0.043
+9 	 19 	 ERT_PAAC 	 0.042
+10 	 4 	 ERT_AAC 	 0.032
+11 	 17 	 RF_PAAC 	 0.027
+12 	 12 	 RF_CKSAAGP 	 0.022
+13 	 2 	 RF_AAC 	 0.010
+14 	 22 	 RF_PHYC 	 0.010
+15 	 24 	 ERT_PHYC 	 0.007
+16 	 20 	 XGB_PAAC 	 0.000
+17 	 21 	 ANN_PHYC 	 0.000
+18 	 1 	 ANN_AAC 	 0.000
+19 	 16 	 ANN_PAAC 	 0.000
+20 	 15 	 XGB_CKSAAGP 	 0.000
+21 	 11 	 ANN_CKSAAGP 	 0.000
+22 	 10 	 XGB_DPC 	 0.000
+23 	 6 	 ANN_DPC 	 0.000
+24 	 5 	 XGB_AAC 	 0.000
+
+*** mRMR features *** 
+Order 	 Fea 	 Name 	 Score
+1 	 8 	 KNN_DPC 	 0.292
+2 	 18 	 KNN_PAAC 	 0.131
+3 	 14 	 ERT_CKSAAGP 	 0.017
+4 	 3 	 KNN_AAC 	 0.051
+5 	 13 	 KNN_CKSAAGP 	 0.004
+6 	 20 	 XGB_PAAC 	 0.000
+7 	 9 	 ERT_DPC 	 0.002
+8 	 2 	 RF_AAC 	 0.000
+9 	 21 	 ANN_PHYC 	 0.000
+10 	 23 	 KNN_PHYC 	 0.001
+11 	 1 	 ANN_AAC 	 0.000
+12 	 7 	 RF_DPC 	 0.004
+13 	 16 	 ANN_PAAC 	 0.000
+14 	 15 	 XGB_CKSAAGP 	 0.000
+15 	 19 	 ERT_PAAC 	 0.002
+16 	 11 	 ANN_CKSAAGP 	 0.000
+17 	 10 	 XGB_DPC 	 0.000
+18 	 4 	 ERT_AAC 	 0.000
+19 	 6 	 ANN_DPC 	 0.000
+20 	 22 	 RF_PHYC 	 0.000
+21 	 5 	 XGB_AAC 	 0.000
+22 	 17 	 RF_PAAC 	 0.000
+23 	 25 	 XGB_PHYC 	 0.000
+24 	 24 	 ERT_PHYC 	 -0.000
+25 	 12 	 RF_CKSAAGP 	 -0.002
+
+
+ *** This program and the respective minimum Redundancy Maximum Relevance (mRMR) 
+     algorithm were developed by Hanchuan Peng <hanchuan.peng@gmail.com>for
+     the paper 
+     "Feature selection based on mutual information: criteria of 
+      max-dependency, max-relevance, and min-redundancy,"
+      Hanchuan Peng, Fuhui Long, and Chris Ding, 
+      IEEE Transactions on Pattern Analysis and Machine Intelligence,
+      Vol. 27, No. 8, pp.1226-1238, 2005.
+

@@ -1,0 +1,2 @@
+Datasets    SEN     SPE    F1  MCC   Acc  AUC
+Anti-non-AVP  1.000 0.738 0.187 0.276 0.746 0.988

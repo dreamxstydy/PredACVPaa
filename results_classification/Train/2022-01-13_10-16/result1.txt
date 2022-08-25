@@ -1,0 +1,10 @@
+Datasets    SEN     SPE    F2   MCC    Acc    AUC
+Anti-non-AVP  0.744 0.988 0.842 0.789 0.904 0.960
+Datasets    SEN     SPE    F2   MCC    Acc    AUC
+Anti-non-AVP  0.619 0.928 0.703 0.592 0.824 0.851
+Datasets    SEN     SPE    F2   MCC    Acc    AUC
+Anti-non-AVP  0.810 0.916 0.819 0.730 0.880 0.947
+Datasets    SEN     SPE    F2   MCC    Acc    AUC
+Anti-non-AVP  0.786 0.892 0.786 0.677 0.856 0.917
+Datasets    SEN     SPE    F2   MCC    Acc    AUC
+Anti-non-AVP  0.762 0.928 0.800 0.708 0.872 0.918
